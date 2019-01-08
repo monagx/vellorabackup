@@ -1,0 +1,1 @@
+[14-Dec-2018 00:37:39 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home/vellora/domains/vellorafashions.com/vendor/magento/framework/Filesystem/Directory/Write.php on line 35
